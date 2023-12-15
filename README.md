@@ -4,7 +4,6 @@ C语言中文网，VIP教程资料，学习资料收集来自于网络，侵权�
 文件列表：  
 Shell脚本：Linux_Shell脚本学习指南（超详细）.pdf  
 socket编程入门：1天玩转socket通信技术（非常详细）.pdf  
-STL教程：C   STL快速入门（非常详细）.pdf  
 STL教程：C___STL快速入门（非常详细）.pdf  
 数据结构与算法教程，数据结构C语言版教程！.pdf  
 C++入门教程.pdf  
